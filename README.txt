@@ -1,17 +1,19 @@
-yŽd—lz
-E‘I‘ð‚µ‚Ä‚¢‚éƒlƒbƒgƒ[ƒNƒAƒ_ƒvƒ^‚ÌƒpƒPƒbƒg‚ðƒtƒ@ƒCƒ‹‚É‹L˜^‚·‚é
+â€»æ–°å’æ™‚ä»£ã«ä½œæˆã—ã¾ã—ãŸ
 
-yŽg—p•û–@z
-1.ƒLƒƒƒvƒ`ƒƒ‚·‚éƒlƒbƒgƒ[ƒNƒAƒ_ƒvƒ^‚ð‘I‘ð‚·‚éB
-2.ŠJŽnƒ{ƒ^ƒ“‚ð‰Ÿ‰º‚·‚éB
-3.I—¹ƒ{ƒ^ƒ“‚ð‰Ÿ‰º‚·‚éB
-4.I—¹Œã‚Éì¬‚³‚ê‚½ƒtƒ@ƒCƒ‹‚ðWireShark‚ÅŠJ‚­
+ã€ä»•æ§˜ã€‘
+ãƒ»é¸æŠžã—ã¦ã„ã‚‹ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã‚¢ãƒ€ãƒ—ã‚¿ã®ãƒ‘ã‚±ãƒƒãƒˆã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«è¨˜éŒ²ã™ã‚‹
 
-y§ŒÀŽ–€z
-1.ƒtƒ@ƒCƒ‹Œ`Ž®‚ÍpcapŠg’£Žq‚Å•Û‘¶‚³‚ê‚Ü‚·B
-2.WinPcap‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‚¢‚éŠÂ‹«‚Å‚µ‚©“®ì‚µ‚Ü‚¹‚ñB
+ã€ä½¿ç”¨æ–¹æ³•ã€‘
+1.ã‚­ãƒ£ãƒ—ãƒãƒ£ã™ã‚‹ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã‚¢ãƒ€ãƒ—ã‚¿ã‚’é¸æŠžã™ã‚‹ã€‚
+2.é–‹å§‹ãƒœã‚¿ãƒ³ã‚’æŠ¼ä¸‹ã™ã‚‹ã€‚
+3.çµ‚äº†ãƒœã‚¿ãƒ³ã‚’æŠ¼ä¸‹ã™ã‚‹ã€‚
+4.çµ‚äº†å¾Œã«ä½œæˆã•ã‚ŒãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’WireSharkã§é–‹ã
 
-yŠJ”­ŠÂ‹«z
-VC{{
+ã€åˆ¶é™äº‹é …ã€‘
+1.ãƒ•ã‚¡ã‚¤ãƒ«å½¢å¼ã¯pcapæ‹¡å¼µå­ã§ä¿å­˜ã•ã‚Œã¾ã™ã€‚
+2.WinPcapã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ã„ã‚‹ç’°å¢ƒã§ã—ã‹å‹•ä½œã—ã¾ã›ã‚“ã€‚
+
+ã€é–‹ç™ºç’°å¢ƒã€‘
+VCï¼‹ï¼‹
 PlatformSDK
 WinPcap
